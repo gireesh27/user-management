@@ -47,7 +47,7 @@ The application will run on http://localhost:3000
 
 SignUP Page:
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/181bd3e1-dede-4d1d-89db-86beda52b4c2)
 
 Login Page:
 
