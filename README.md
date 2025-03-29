@@ -44,6 +44,17 @@ The application will run on http://localhost:3000
 ✅ User Authentication (Signup, Login, Logout)✅ Fetch API for Data Handling✅ Full CRUD Operations (Create, Read, Update, Delete Users)✅ Responsive UI with Tailwind CSS✅ Animations using Framer Motion
 
 📸 Screenshots
+
+SignUP Page:
+
+![Uploading image.png…]()
+
+Login Page:
+
+![image](https://github.com/user-attachments/assets/fccf183a-ae94-481b-9968-f50e2c4e8221)
+
+Users List:
+
 ![image](https://github.com/user-attachments/assets/b5b11064-006f-47bf-9dfb-38c24a69c8fe)
 
 🤝 Contribution
